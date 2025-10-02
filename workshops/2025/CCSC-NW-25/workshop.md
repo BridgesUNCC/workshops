@@ -1,8 +1,6 @@
 # Real-World Problems, Data, and Visualizations Using BRIDGES
 
-Using [BRIDGES](https://bridgesuncc.github.io/)
-
-This page accessible through [http://bit.ly/bridges-ccscne22](http://bit.ly/bridges-ccscne22)
+[BRIDGES Home Page](https://bridgesuncc.github.io/)
 
 Access [slides](talk.pdf).
 
