@@ -1,4 +1,4 @@
-# Motivating CS Majors Using Real-World Data, Games and Visualizations
+# Real-World Problems, Data, and Visualizations Using BRIDGES
 
 Using [BRIDGES](https://bridgesuncc.github.io/)
 
@@ -63,7 +63,7 @@ All [dataset supported by BRIDGES](http://bridgesuncc.github.io/datasets.html)
 
 
 ### Workshops
-[BRIDGES 3-day Workshops (Summer '22)](http://bridgesuncc.github.io/workshops/2022/BRIDGES-Summer-22/workshop.html)
+[BRIDGES 3-day Workshops (Summer '25)]
 
 
 ### Survey
