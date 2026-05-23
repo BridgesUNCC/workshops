@@ -1,5 +1,7 @@
 # Agenda: Summer 2026 BRIDGES Workshop: Real World Data, Visualizations and Engaging Assignments Using BRIDGES 
 
+## Location:  Dubois Center, Rm. 1103
+
 ## Day 1 (June 15)
 
 |  Time  |  Activity  |
