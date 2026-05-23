@@ -1,6 +1,6 @@
-# Agenda: Summer 2024 BRIDGES Workshop: Real World Data, Visualizations and Engaging Assignments Using BRIDGES 
+# Agenda: Summer 2026 BRIDGES Workshop: Real World Data, Visualizations and Engaging Assignments Using BRIDGES 
 
-## Day 1 (June 24)
+## Day 1 (June 15)
 
 |  Time  |  Activity  |
 |  ----- |  ------ |
@@ -42,7 +42,7 @@
 |  5pm and after   |  Happy Hour, Dinner |
 
 
-## Day 2 (June 25)
+## Day 2 (June 16)
 
 |  Time  |  Activity  |
 |  ----- |  ------ |
@@ -61,7 +61,7 @@
 |  3.30 - 5pm |  Complete BRIDGES Assignment 2 |
 |  5pm and after  | Happy Hour, Dinner|
 
-## Day 3 (June 26)
+## Day 3 (June 17)
 
 |  Time  |  Activity  |
 |  ----- |  ------ |
@@ -80,8 +80,7 @@
 
 If you have additional questions, please reach out to us via **Email** :
 
-[***Kalpathi Subramanian***](mailto:krs@uncc.edu?subject=BRIDGES%20Summer22%20Workshop)
+[***Kalpathi Subramanian***](mailto:krs@charlotte.edu?subject=BRIDGES%20Summer22%20Workshop)
 
-[***Erik Saule***](mailto:esaule@uncc.edu?subject=BRIDGES%20Summer22%20Workshop)
+[***Erik Saule***](mailto:erik.saule@gmail.com?subject=BRIDGES%20Summer22%20Workshop)
 
-[***Jamie Payton***](mailto:payton@temple.edu?subject=BRIDGES%20Summer22%20Workshop)
