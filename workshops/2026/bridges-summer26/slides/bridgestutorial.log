@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.17)  23 MAY 2026 16:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.12.17)  15 JUN 2026 10:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -981,7 +981,7 @@ File: lstlang1.sty 2024/09/23 1.10c listings language file
 File: lstmisc.sty 2024/09/23 1.10c (Carsten Heinz)
 )
 (./tutorial/ListIMDB.cpp)
-Overfull \vbox (13.03122pt too high) detected at line 113
+Overfull \vbox (13.03122pt too high) detected at line 115
  []
 
 
@@ -995,19 +995,19 @@ Overfull \hbox (34.5016pt too wide) in paragraph at lines 32--33
  []
 
 )
-LaTeX Font Info:    Trying to load font information for U+msa on input line 127
+LaTeX Font Info:    Trying to load font information for U+msa on input line 129
 .
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 127
+LaTeX Font Info:    Trying to load font information for U+msb on input line 129
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 127.
+ut line 129.
 
 (/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
 File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
@@ -1016,7 +1016,7 @@ thkerncmss.
 <tutorial/output.png, id=115, 551.05875pt x 436.63126pt>
 File: tutorial/output.png Graphic file (type png)
 <use tutorial/output.png>
-Package pdftex.def Info: tutorial/output.png  used on input line 127.
+Package pdftex.def Info: tutorial/output.png  used on input line 129.
 (pdftex.def)             Requested size: 195.00348pt x 154.50882pt.
 
 
@@ -1043,7 +1043,7 @@ Package rerunfilecheck Info: File `bridgestutorial.out' has not changed.
 Here is how much of TeX's memory you used:
  23915 strings out of 473197
  452532 string characters out of 5718604
- 1029493 words of memory out of 5000000
+ 1029607 words of memory out of 5000000
  46656 multiletter control sequences out of 15000+600000
  567233 words of font info for 66 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -1055,7 +1055,7 @@ ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texlive/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on bridgestutorial.pdf (7 pages, 670943 bytes).
+Output written on bridgestutorial.pdf (7 pages, 671180 bytes).
 PDF statistics:
  172 PDF objects out of 1000 (max. 8388607)
  100 compressed objects within 1 object stream

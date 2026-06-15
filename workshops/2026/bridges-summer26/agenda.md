@@ -16,7 +16,7 @@
 |                  | [An alignment example: ITCS 6114](slides/structure_figs/6114.html) |
 |  9.35 - 10am     | Put your class content on Google Drive. |
 |                  | Organize by Module/Chapter/Week |
-|                  | [Google Drive](https://drive.google.com/drive/u/0/folders/1EHdqO6UZlaja-hgX9MTeT09_yhl0AXJS ) |
+|                  | [Google Drive](https://drive.google.com/drive/folders/1ymz_bndsxiyayZTfMZjdg0Lv4pQZCovG?usp=sharing) |
 |  10 - 10.15am    |  Coffee Break |
 |  10.15 - 10.40am  | What is BRIDGES?  |
 |                 | [slides](slides/bridgestutorial.pdf) |
